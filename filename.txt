@@ -1,0 +1,6 @@
+Hi there
+
+or..... how to get all the files (and directories) in current directory (Python 3)
+
+The simplest way to have the file in the current directory in Python 3 is this. 
+It's really simple; use the os module and the listdir() function and you'll have the file in that directory (and eventual folders that are in the directory,but you will not have the file in the subdirectory, for that you can use walk - I will talk about it later).
