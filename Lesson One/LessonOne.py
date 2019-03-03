@@ -9,7 +9,6 @@ print(name)
 # This is a Nymber <Int> 
 age = 27
 print(age)
-# This is a rando number 
 
 print("1 + 2 - 3 * 2 = {} ".format( 1 + 2 - 3 * 2))
 print("(1 + 2 - 3) * 2 = {} ".format( (1 + 2 - 3) * 2))
