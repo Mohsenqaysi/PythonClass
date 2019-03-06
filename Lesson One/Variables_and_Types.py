@@ -99,5 +99,23 @@ print("\n\n--------------------\n\n")
 
 
 
+
+
+
+
+
+
+
+# Final example:
+
 print("\t\tTier I\t\tTier II")
 print("A's Bootcamp {}  {} months ago  {}  {} year ago".format(3,6,14,1))
+
+
+
+time = 2.55
+age = 26
+
+print(time)
+
+print(time + age)
